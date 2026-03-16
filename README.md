@@ -1,16 +1,44 @@
-## Hi there 👋
+# Paddy O’Connor
 
-<!--
-**PaddyOC19/PaddyOC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer building SaaS platforms, marketplaces, and automation systems.
 
-Here are some ideas to get you started:
+## Current Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**PitchUp** – Sports venue marketplace platform
+
+A SaaS + marketplace platform enabling sports venues to manage facility bookings, availability, and payments.
+
+Tech stack:
+
+- React + TypeScript
+- FastAPI
+- Supabase (Postgres)
+- Stripe Connect
+- TailwindCSS
+
+## Tech Stack
+
+Frontend  
+React • TypeScript • Tailwind
+
+Backend  
+FastAPI • Python
+
+Infrastructure  
+Supabase • PostgreSQL • AWS • Render
+
+Payments  
+Stripe • Stripe Connect
+
+Automation  
+n8n • APIs • Webhooks
+
+## Available for freelance work
+
+I help startups and businesses build:
+
+• SaaS platforms  
+• marketplace products  
+• payment systems  
+• backend APIs  
+• automation workflows
