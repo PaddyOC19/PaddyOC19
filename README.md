@@ -4,7 +4,7 @@ Full-Stack Software Engineer building SaaS platforms, marketplaces, and automati
 
 ## Current Work
 
-**PitchUp(www.pitchup.com.au)** – Sports venue marketplace platform
+**PitchUp (www.pitchup.com.au)** – Sports venue marketplace platform
 
 A SaaS + marketplace platform enabling sports venues to manage facility bookings, availability, and payments.
 
